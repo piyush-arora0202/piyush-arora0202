@@ -1,5 +1,12 @@
 <h1 align="center"> Hii  👋, I'm Piyush Arora</h1>
+<p ## 👋 About Me
 
+- 🎓 B.E. Computer Science Engineering student at Chitkara University
+- 💻 Passionate about Software Engineering and Full Stack Development
+- 🧠 Strong interest in Data Structures & Algorithms and Problem Solving
+- 🚀 Building real-world projects while continuously learning new technologies
+- 📈 Believe in consistency, continuous improvement, and hands-on learning
+>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
