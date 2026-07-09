@@ -1,4 +1,4 @@
-Hii  👋, I'm Piyush Arora
+<h1 Hii  👋, I'm Piyush Arora</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
