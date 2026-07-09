@@ -7,7 +7,6 @@
 - 🚀 Building real-world projects while continuously learning new technologies
 - 📈 Believe in consistency, continuous improvement, and hands-on learning
 >
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
